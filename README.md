@@ -1,0 +1,1 @@
+This repo contains all of the progress from the beginning to the end of the website redesign for the APSS website from low fidelity and high fidelity designs to a fully functional working website made with WordPress.
